@@ -1,64 +1,6 @@
----
-annotations_creators: []
-language: en
-size_categories:
-- 1K<n<10K
-task_ids: []
-pretty_name: action100m
-tags:
-- fiftyone
-- video
-dataset_summary: >
-
-
-
-
-  This is a [FiftyOne](https://github.com/voxel51/fiftyone) dataset with 1144
-  samples.
-
-
-  ## Installation
-
-
-  If you haven't already, install FiftyOne:
-
-
-  ```bash
-
-  pip install -U fiftyone
-
-  ```
-
-
-  ## Usage
-
-
-  ```python
-
-  import fiftyone as fo
-
-  from fiftyone.utils.huggingface import load_from_hub
-
-
-  # Load the dataset
-
-  # Note: other available arguments include 'max_samples', etc
-
-  dataset = load_from_hub("Voxel51/action100m_tiny_subset")
-
-
-  # Launch the App
-
-  session = fo.launch_app(dataset)
-
-  ```
-license: fair-noncommercial-research-license
----
-
 # Dataset Card for action100m
 
 ![image/png](action100m.gif)
-
 
 
 This is a [FiftyOne](https://github.com/voxel51/fiftyone) dataset with 1144 samples.
