@@ -1,0 +1,31 @@
+# Core
+fiftyone
+datasets
+huggingface-hub
+numpy
+tqdm
+ipykernel
+
+# Transformers ecosystem
+# Pinned at 4.57.1 — required by our video models
+transformers==4.57.1
+torch
+torchvision
+accelerate
+einops
+
+# Video decoding
+decord2     # Molmo2
+
+# Model-specific utilities
+qwen-vl-utils   # Qwen3-VL
+molmo_utils     # Molmo2
+
+# Embeddings & visualization
+sentence-transformers
+umap-learn
+peft
+
+# Text evaluation plugin
+# Install separately: fiftyone plugins download https://github.com/harpreetsahota204/text_evaluation_metrics
+python-Levenshtein
