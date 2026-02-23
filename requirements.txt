@@ -25,6 +25,7 @@ molmo_utils     # Molmo2
 sentence-transformers
 umap-learn
 peft
+protobuf
 
 # Text evaluation plugin
 # Install separately: fiftyone plugins download https://github.com/harpreetsahota204/text_evaluation_metrics
