@@ -7,15 +7,16 @@ tqdm
 ipykernel
 
 # Transformers ecosystem
-# Pinned at 4.57.1 — required by our video models
-transformers==4.57.1
-torch
-torchvision
+
+transformers==4.57.1 # Pinned at 4.57.1 — required by our video models
+"torch==2.7.1" #for flash-attn compatability
+"torchvision==0.22.1" #for flash-attn compatability
 accelerate
 einops
 
 # Video decoding
 decord2     # Molmo2
+decord
 
 # Model-specific utilities
 qwen-vl-utils   # Qwen3-VL
