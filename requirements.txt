@@ -9,8 +9,8 @@ ipykernel
 # Transformers ecosystem
 
 transformers==4.57.1 # Pinned at 4.57.1 — required by our video models
-"torch==2.7.1" #for flash-attn compatability
-"torchvision==0.22.1" #for flash-attn compatability
+torch==2.7.1 #for flash-attn compatability
+torchvision==0.22.1 #for flash-attn compatability
 accelerate
 einops
 
