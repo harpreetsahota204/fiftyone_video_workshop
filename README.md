@@ -204,8 +204,8 @@ fiftyone plugins download https://github.com/harpreetsahota204/FiftyComfy --over
 ### jina-embeddings-v5-text
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.15547-b31b1b.svg)](https://arxiv.org/abs/2602.15547)
-[![HuggingFace](https://img.shields.io/badge/🤗%20Model-jina--embeddings--v5--text--nano--classification-FFD21E)](https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-classification)
-[![HuggingFace](https://img.shields.io/badge/🤗%20Model-jina--embeddings--v5--text--nano--clustering-FFD21E)](https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-clustering)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Model-jina--embeddings--v5--text--small--classification-FFD21E)](https://huggingface.co/jinaai/jina-embeddings-v5-text-small-classification)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Model-jina--embeddings--v5--text--small--clustering-FFD21E)](https://huggingface.co/jinaai/jina-embeddings-v5-text-small-clustering)
 
 ```bibtex
 @misc{akram2026jinaembeddingsv5texttasktargetedembeddingdistillation,
