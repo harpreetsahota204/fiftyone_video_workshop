@@ -31,3 +31,6 @@ protobuf
 # Text evaluation plugin
 # Install separately: fiftyone plugins download https://github.com/harpreetsahota204/text_evaluation_metrics
 python-Levenshtein
+apted
+mistletoe
+beautifulsoup4
