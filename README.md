@@ -1,4 +1,7 @@
 # Understanding Video Data at Scale
+![image/png](download_scripts/action100m.gif)
+
+
 ### A Hands-On Workshop with Action100M and FiftyOne
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harpreetsahota204/fiftyone_video_workshop/blob/main/workshop.ipynb) [![Slides](https://img.shields.io/badge/Slides-Google%20Slides-4285F4?logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/18tVFu-Gw9QEtNFhopo6me0Oc2szs8b62mFlsz2ok4Z4/edit?usp=sharing)
